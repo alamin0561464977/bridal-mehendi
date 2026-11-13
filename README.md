@@ -30,6 +30,7 @@ npm.cmd run lint     # Run Oxlint
 ```
 
 ## Deploy to Netlify
+https://beautiful-rabanadas-74bc59.netlify.app/
 
 The Netlify build settings are in `netlify.toml`:
 
